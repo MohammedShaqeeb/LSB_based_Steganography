@@ -47,7 +47,9 @@ Reconstructs the original secret file
 📂 Project Structure
 .
 ├── main.c
+
 ├── encode.c
+
 ├── decode.c
 ├── encode.h
 ├── decode.h
