@@ -1,5 +1,5 @@
-🔐 LSB Steganography using C (BMP Image)
-📌 Project Overview
+#🔐 LSB Steganography using C (BMP Image)
+##📌 Project Overview
 
 This project implements LSB (Least Significant Bit) Steganography in C to securely hide and extract secret data inside BMP images.
 
